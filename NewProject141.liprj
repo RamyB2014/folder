@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject141.liprjf" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject141.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="fe65f112-44d2-4ee4-bbf8-acd59793705e">
+    <ProjectFile Source="Target/WhyHalp3.flprj" Target="Target/WhyHalp3.flprj" />
+</LingoProject>
